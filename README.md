@@ -44,7 +44,7 @@ A simple Python application that allows you to download audio tracks from Spotif
 ## Example
 
 ```python
-Enter track url = https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM  # Example URL
+Enter track url = 'https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM'  # Example URL
 ```
 
 ## Contributing
